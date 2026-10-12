@@ -1,0 +1,10 @@
+# Secrets & private credentials
+secrets.h
+secrets.h.save
+*.save
+
+# Build & temporary files
+.vscode/
+.idea/
+*.tmp
+*.bak
